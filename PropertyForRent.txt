@@ -1,0 +1,7 @@
+"PA14","16 Holhead","Aberdeen","AB7 5SU","House",6,650,"CO46","SA9","B007","images/house2.jpg","images/plan1.jpg"
+"PG16","5 Novar Drive","Glasgow","G12 9AX","Flat",4,450,"CO93","SG14","B003","images/house3.jpg","images/plan1.jpg"
+"PG21","18 Dale Road","Glasgow","G12","House",5,600,"CO87","SG37","B003","images/house4.jpg","images/plan1.jpg"
+"PG36","2 Manor Road","Glasgow","G32 4QX","Flat",3,375,"CO93","SG37","B003","images/house5.jpg","images/plan1.jpg"
+"PG4","6 Lawrence Street","Glasgow","G11 9QX","Flat",3,350,"CO40","SA9","B003","images/house2.jpg","images/plan1.jpg"
+"PG97","Muir Drive","Aberdeen","AB42 1DD","House",3,380,"CO46","SA9","B007","images/house1.jpg","images/plan1.jpg"
+"PL94","6 Argyll Street","London","NW2","Flat",4,400,"CO87","SL41","B005","images/house3.jpg","images/plan1.jpg"

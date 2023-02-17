@@ -1,0 +1,6 @@
+"SA9","Mary","Howe","Assistant","F",2/19/1970 0:00:00,9000,"B007","1338","079555 12345","MaryHowe@Dreamhome.co.uk"
+"SG14","David","Ford","Supervisor","M",3/24/1958 0:00:00,18000,"B003","0223","079555 12344","DavidFord@Dreamhome.co.uk"
+"SG37","Ann","Beech","Assistant","F",11/10/1960 0:00:00,12000,"B003","0224","079555 12346","AnnBeech@Dreamhome.co.uk"
+"SG5","Susan","Brand","Manager","F",6/3/1940 0:00:00,24000,"B003","0225","079555 12347","SusanBrand@Dreamhome.co.uk"
+"SL21","John","White","Manager","M",10/1/1945 0:00:00,30000,"B005","1512","090555 12345","JohnWhite@Dreamhome.co.uk"
+"SL41","Julie","Lee","Assistant","F",6/13/1965 0:00:00,9000,"B005","1514","090555 12346","JulieLee@Dreamhome.co.uk"

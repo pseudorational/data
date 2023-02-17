@@ -1,0 +1,12 @@
+2,"CR56","Fred","Flintstone","555 1234","12 Rock Way","Bedrock","BD3 8RK","fred@flintyrock.com",5/9/2004 0:00:00,,"House",450
+6,"CR62","Wilma","Flintstone","555 1234","12 Rock Way","Bedrock","BD3 8RK","wilma@flintyrock.com",5/9/2004 0:00:00,,"Flat",350
+7,"CR74","Albert","Johnstone","555 6677","1 Way St.","Chicago","PO34 5FB","albie@johnstone.com",5/9/2004 0:00:00,"(N/A)","Flat",450
+9,"CR77","Clark","Kent","555 9999","1 Super Way","Smallville","SM4 2ME","clark@supersite.com",5/9/2004 0:00:00,"(N/A)","Flat",400
+10,"CR79","Joe","Bloggs","123 4567","5 High St","Paisley","PA2 2BB","joe@paisley.com",5/10/2004 0:00:00,"London (North West)","House",450
+12,"CR83","Edward","Scissorhands","123 4567","1 Snip St.","Scissorland","SC1 2XX","eddie@scix.com",5/21/2004 0:00:00,"(N/A)","House",300
+17,,"Albert","Enistein","555 6789","12 Long Island Way","New Jersey","NJ44 2RD","bert@nuclearintent.com",5/21/2004 0:00:00,"London (North West)",,450
+18,,"Snorrie","Sturrluson","333 4567","1 Vik Way","Rekjavik","RK22 3RD","snorrie@iceland.com",5/21/2004 0:00:00,"(N/A)",,400
+19,,"Ferdinand","Oblogiotta","123 5555","12 Strumpetwise Street","Lagrange Orage","PP2 1BB","ferdy@orage.com",5/31/2004 0:00:00,"(N/A)","House",450
+20,,"Joe","Schmoe","123 45678","1 High St","Largs","KA30 9DD","joes@largy.com",5/31/2004 0:00:00,"(N/A)","House",550
+21,,"Bill","Gates","123 5555","1 Rich Street","Seattle","SE2 TTL","bill@gatesland.com",6/1/2004 0:00:00,"London (South)","House",1000
+24,,"Bruce","Wayne","555 6789","1 Wayne Manor","Gotham","BA01 TT0","wayne@batty.com",11/22/2004 0:00:00,"Glasgow","House",900
